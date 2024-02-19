@@ -1,2 +1,2 @@
 # hangman
-A classic game 
+A classic game of hangman
