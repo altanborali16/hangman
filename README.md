@@ -1,2 +1,2 @@
 # hangman
-A classic game of hangman main brach
+A classic game of hangman meeting
