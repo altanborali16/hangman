@@ -1,2 +1,2 @@
 # hangman
-A classic game of hangman meeting
+A classic game of hangman meeting Kaan
