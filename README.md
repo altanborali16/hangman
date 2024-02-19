@@ -1,2 +1,2 @@
 # hangman
-a classic game 
+A classic game 
